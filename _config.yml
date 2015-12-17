@@ -1,6 +1,6 @@
 name: LunarRaid
 favicon: null
-layout_spectrum: 0.24126455537043512
+layout_spectrum: 0.2616
 typography_spectrum: 0.6528844833374023
 title: LunarRaid.com
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#e8e8e8'
+    - '#bebebe'
+    - '#747474'
+    - '#004000'
   brandStrength: 0.10344280069693923
-  lightness: 0.32894130516797304
-  saturation: 0.6346374922432005
-  rhythmicContrast: 0.6545591459143907
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
